@@ -2,7 +2,9 @@
 
 An end-to-end data science project to analyze customer churn using Python and SQL, build an interpretable ML model with PCA + Logistic Regression, and present business insights via Power BI dashboards.
 
-## 🔧 Tools & Technologies Used:SQL (MySQL), Python (Pandas, Seaborn, Scikit-learn), Jupyter Notebook, Power BI, PCA + Logistic Regression
+## 🔧 Tools & Technologies Used:
+SQL (MySQL), Python (Pandas, Seaborn, Scikit-learn), Jupyter Notebook, Power BI, PCA + Logistic Regression
+
 ## 🔍 1. Data Analysis (Python)
 
 - Cleaned and standardized column names
