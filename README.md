@@ -1,4 +1,4 @@
-📊 Customer Churn Prediction & Analysis
+# 📊 Customer Churn Prediction & Analysis
 
 An end-to-end data science project to analyze customer churn using Python and SQL, build an interpretable ML model with PCA + Logistic Regression, and present business insights via Power BI dashboards.
 
