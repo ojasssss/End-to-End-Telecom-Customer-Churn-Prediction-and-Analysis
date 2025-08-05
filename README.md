@@ -28,8 +28,6 @@ SQL (MySQL), Python (Pandas, Seaborn, Scikit-learn), Jupyter Notebook, Power BI,
 - Chose this model for **interpretability** and stakeholder communication
 - Performed hyperparameter tuning using `GridSearchCV`
 
----
-
 ## 🛢️ 3. SQL Analysis
 
 Structured SQL queries to extract key insights:
