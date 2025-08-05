@@ -59,20 +59,6 @@ Built interactive KPIs and visuals to represent:
 - Developed an **interactive Power BI dashboard** for decision-makers  
 - Delivered **actionable insights and churn risk profiling**
 
-## 🗂️ Project Structure:
-📁 Telecom-Churn-Analysis/
-├── SQL\_Analysis/
-│   └── telecom\_churn\_queries.sql
-├── EDA\_ML\_Model/
-│   ├── telecom\_churn\_eda.ipynb
-│   └── churn\_model\_with\_pca\_logistic.ipynb
-├── PowerBI\_Dashboard/
-│   └── telecom\_churn\_dashboard.pbix
-├── Data/
-│   ├── Customer\_churn.csv
-│   └── Zipcode\_population.csv
-├── README.md
-
 ## 📥 Datasets
 Customer_churn.csv – Main dataset with telecom customer info and churn label
 
